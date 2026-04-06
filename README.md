@@ -1,16 +1,17 @@
-## Hi there 👋
+# Merhaba, ben Mustafa Arslanbüker! 👋
 
-<!--
-**arslanbukeraysun-lgtm/arslanbukeraysun-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+7. sınıf öğrencisiyim ve yazılım dünyasına **HAREZMİ** projemle adım attım. 
+Teknoloji tasarımı, kodlama ve dijital çözümler üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+### 🚀 Neler Üzerinde Çalışıyorum?
+- **HAREZMİ:** Modern ve kullanıcı dostu bir web arayüzü projesi.
+- **Dijital Detoks:** Teknoloji bağımlılığıyla mücadele eden araçlar.
+- **Model Tasarımı:** Fiziksel ve dijital mimari modeller.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Kullandığım Araçlar
+- HTML5 & CSS3
+- Git & GitHub
+- Termux & Vercel
+
+---
+[Harezmi'yi Canlı İzle](https://harezmi-snowy.vercel.app)
